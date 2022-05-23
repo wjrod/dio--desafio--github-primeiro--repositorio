@@ -1,0 +1,6 @@
+link download do git=https://git-scm.com/
+
+O Git Bash é um terminal extendido para otimizar o uso do Git..
+
+link   do github=https://circleci.com/integrations/github/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--latam-en-github-maxConv-auth-nb&utm_term=g_e-github_c__rsa2_20210526&utm_content=sem-google-dg--latam-en-github-maxConv-auth-nb_keyword-text_rsa-github_exact-&gclid=CjwKCAjw4ayUBhA4EiwATWyBrjSJqqoKbtYulrB1-fI5PyklTfnmgOjibTuE1WM1XUAKC6gZpUzyChoC8IEQAvD_BwE
+
